@@ -1,0 +1,18 @@
+
+.single-msg{
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.msg-time{
+    margin-left: 50px !important;
+    color: #8EADD3;
+}
+.msg-main{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+.msg-time-own{
+    text-align: end;
+    margin-right: 50px !important;
+}

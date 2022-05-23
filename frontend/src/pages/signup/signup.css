@@ -1,0 +1,14 @@
+.singup-box{
+  width: 300px;
+  border: 1px solid #BDBDBD;
+  border-radius: 3px;
+  padding: 20px;
+}
+.signup-center{
+  display: flex;
+  justify-content: center;
+  margin-top: 45px;
+}
+.signup-big{
+  margin: 40px 0;
+}
